@@ -1,0 +1,13 @@
+node_modules/
+package.json
+package-lock.json
+temporary screenshots/
+.DS_Store
+
+# Claude Code skill packages (local tooling, not part of the site)
+Agent-Skills-for-Context-Engineering-main/
+marketingskills-main/
+ui-ux-pro-max-skill-main/
+stop-slop-main/
+CLAUDE.md
+Frontend design skill.md
